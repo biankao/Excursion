@@ -6,12 +6,28 @@ body{
     text-align: center;
 }
 
+/* Typography */
+
 h1{
     font-weight: normal;
-    font-size: 3rem;
+    font-size: 3em;
+}
+
+h2{
+    font-weight: 300;
+    font-size: 2.5em;
 }
 
 a{
     color: aquamarine;
-    font-size: 1rem;
+    font-size: 1em;
 }
+
+
+/* Layout */
+
+#header-vid{
+    margin: auto;
+    padding: 2rem;
+}
+
