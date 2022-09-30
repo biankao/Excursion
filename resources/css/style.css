@@ -23,11 +23,20 @@ a{
     font-size: 1em;
 }
 
+p{
+    color: gray;
+    font-size: 1.2em;
+}
+
 
 /* Layout */
 
-#header-vid{
+.img{
     margin: auto;
     padding: 2rem;
+}
+
+#copyright{
+    text-align: right;
 }
 
